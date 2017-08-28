@@ -1,5 +1,5 @@
 # women-teach-coding
-Registry of amazing women in tech who create coding tutorials 
+Registry of amazing open source women who create coding tutorials 
 
 ---
 
