@@ -23,6 +23,30 @@ Title | Topic |  Level | Format |
 
 ---
 
+## Tara Vancil
+
+[Twitter](https://twitter.com/taravancil) *
+[Github](https://github.com/taravancil) *
+JavaScript
+
+Title | Topic |  Level | Format | 
+| ----- | ----- | ------ | ------ |
+| [How to build a P2P Photos app](https://medium.com/blue-link-labs/building-a-decentralized-peer-to-peer-photos-app-with-beaker-and-dat-c8a470202b4c) | peer-to-peer | intermediate | blog |
+| [Create a peer-to-peer blog](https://beakerbrowser.com/docs/tutorials/create-a-blog.html) | peer-to-peer | intermediate | blog |
+| [Host outside of Beaker](https://beakerbrowser.com/docs/tutorials/host-outside-of-beaker.html) | peer-to-peer | intermediate | blog |
+| [Create a markdown site](https://beakerbrowser.com/docs/tutorials/create-a-markdown-site.html) | peer-to-peer | intermediate | blog |
+| [Share files secretly](https://beakerbrowser.com/docs/tutorials/share-files-secretly.html) | peer-to-peer | intermediate | blog |
+| [Publish software securely](https://beakerbrowser.com/docs/tutorials/publish-software-securely.html) | peer-to-peer | intermediate | blog |
+| [Web APIs by example](https://beakerbrowser.com/docs/apis/by-example.html) | peer-to-peer | intermediate | blog |
+| [Read files using DatArchive API](https://beakerbrowser.com/docs/tutorials/read-site-files.html) | peer-to-peer | intermediate | blog |
+| [Write files using DatArchive API](https://beakerbrowser.com/docs/tutorials/write-site-files.html) | peer-to-peer | intermediate | blog |
+| [Diff, commit, revert with DatArchive API](https://beakerbrowser.com/docs/tutorials/diff-commit-revert.html) | peer-to-peer | intermediate | blog |
+| [Listen for file changes with DatArchive API](https://beakerbrowser.com/docs/tutorials/listen-for-file-changes.html) | peer-to-peer | intermediate | blog |
+| [Create or fork a site with DatArchive API](https://beakerbrowser.com/docs/tutorials/create-or-fork-a-site.html) | peer-to-peer | intermediate | blog |
+
+
+---
+
 ## Nina Breznik
 
 [Twitter](https://twitter.com/ninabreznik) *
