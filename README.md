@@ -56,4 +56,4 @@ JavaScript
 Title | Topic |  Level | Format | 
 ----- | ----- | ------ | ------ |
 |[Build your portfolio page with JavaScript and NMP](https://www.youtube.com/playlist?list=PLbtP2pUMT_hvANJ-b49tp88sOkVLSOkcq)| project | beginner | video |
-|[Build your Quiz using Firebase](https://www.youtube.com/playlist?list=PLbtP2pUMT_huBADZzKcjJ70x9DBCJzpEN)| project | beginner | video |
+|[Build a simple Quiz with JavaScript using Firebase](https://www.youtube.com/playlist?list=PLbtP2pUMT_huBADZzKcjJ70x9DBCJzpEN)| project | beginner | video |
