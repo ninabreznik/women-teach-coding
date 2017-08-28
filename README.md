@@ -4,11 +4,10 @@ Registry of amazing women in tech who create coding tutorials
 
 ## Irina Shestak
 
-[Twitter](https://twitter.com/_lrlna)
+[Twitter](https://twitter.com/_lrlna) *
+[Github](https://github.com/lrlna) *
+JavaScript
 
-[Github](https://github.com/lrlna)
-
-**Stack**: JavaScript
 
 Title | Topic |  Level | Format | 
 ----- | ----- | ------ | ------ |
@@ -21,13 +20,14 @@ Title | Topic |  Level | Format |
 |[huffman coding](https://github.com/lrlna/sketchin/blob/master/guides/huffman-trees.md)| algorithms | advanced | sketchnote |
 |[Libsodium](https://github.com/lrlna/sketchin/blob/master/guides/libsodium.md)| crtypography | intermediate | sketchnote |
 
+
 ## Nina Breznik
 
-[Twitter](https://twitter.com/ninabreznik)
+[Twitter](https://twitter.com/ninabreznik) *
+[Github](https://github.com/ninabreznik) *
+JavaScript
 
-[Github](https://github.com/ninabreznik)
-
-**Stack**: JavaScript
-
+Title | Topic |  Level | Format | 
+----- | ----- | ------ | ------ |
 |[Build your portfolio page with JavaScript using NPM modules YO, CSJS and MINIXHR](https://www.youtube.com/playlist?list=PLbtP2pUMT_hvANJ-b49tp88sOkVLSOkcq)| project | beginner | video |
 |[Build your Quiz using Firebase](https://www.youtube.com/playlist?list=PLbtP2pUMT_huBADZzKcjJ70x9DBCJzpEN)| project | beginner | video |
