@@ -20,6 +20,7 @@ Title | Topic |  Level | Format |
 |[huffman coding](https://github.com/lrlna/sketchin/blob/master/guides/huffman-trees.md)| algorithms | advanced | sketchnote |
 |[Libsodium](https://github.com/lrlna/sketchin/blob/master/guides/libsodium.md)| crtypography | intermediate | sketchnote |
 
+---
 
 ## Nina Breznik
 
