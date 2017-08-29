@@ -24,10 +24,6 @@ Title | Topic |  Level | Format |
 |[huffman coding](https://github.com/lrlna/sketchin/blob/master/guides/huffman-trees.md)| algorithms | advanced | sketchnote |
 |[Libsodium](https://github.com/lrlna/sketchin/blob/master/guides/libsodium.md)| crtypography | intermediate | sketchnote |
 
-![Xueh Magrini Troll *** Xuehka](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/256d8d49982813.58c3cefed0ce0.gif)
-
-Image by [Xuehka](http://xuehka.blogspot.co.uk/)
-
 ---
 
 ## Tara Vancil
@@ -51,10 +47,6 @@ Title | Topic |  Level | Format |
 | [Listen for file changes with DatArchive API](https://beakerbrowser.com/docs/tutorials/listen-for-file-changes.html) | peer-to-peer | intermediate | blog |
 | [Create or fork a site with DatArchive API](https://beakerbrowser.com/docs/tutorials/create-or-fork-a-site.html) | peer-to-peer | intermediate | blog |
 
-![Xueh Magrini Troll *** Xuehka](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/2ec2ab49982813.58c3cefe2de9f.gif)
-
-Image by [Xuehka](http://xuehka.blogspot.co.uk/)
-
 ---
 
 ## Nina Breznik
@@ -68,10 +60,6 @@ Title | Topic |  Level | Format |
 |[Build your portfolio page with JavaScript and NMP](https://www.youtube.com/playlist?list=PLbtP2pUMT_hvANJ-b49tp88sOkVLSOkcq)| project | beginner | video |
 |[Build a simple Quiz with JavaScript using Firebase](https://www.youtube.com/playlist?list=PLbtP2pUMT_huBADZzKcjJ70x9DBCJzpEN)| project | beginner | video |
 
-![Xueh Magrini Troll *** Xuehka](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/14c4e449982813.58c3cefeac643.gif)
-
-Image by [Xuehka](http://xuehka.blogspot.co.uk/)
-
 ---
 
 ## Una Kravetz
@@ -82,10 +70,6 @@ CSS
 
 Title | Topic |  Level | Format | 
 ----- | ----- | ------ | ------ |
-
-![Xueh Magrini Troll *** Xuehka](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/a4f97649982813.58c3cefea5858.gif)
-
-Image by [Xuehka](http://xuehka.blogspot.co.uk/)
 
 ---
 
@@ -98,10 +82,6 @@ Image by [Xuehka](http://xuehka.blogspot.co.uk/)
 Title | Topic |  Level | Format | 
 ----- | ----- | ------ | ------ |
 
-![Xueh Magrini Troll *** Xuehka](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/8bc33249982813.58c3cefe4bc05.gif)
-
-Image by [Xuehka](http://xuehka.blogspot.co.uk/)
-
 ---
 
 ## Jessica Lord
@@ -112,10 +92,6 @@ Node, GIT
 
 Title | Topic |  Level | Format | 
 ----- | ----- | ------ | ------ |
-
-![Xueh Magrini Troll *** Xuehka](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/17a27e49982813.58c3cefebec29.gif)
-
-Image by [Xuehka](http://xuehka.blogspot.co.uk/)
 
 ---
 
@@ -129,6 +105,30 @@ Title | Topic |  Level | Format |
 ----- | ----- | ------ | ------ |
 
 ![Xueh Magrini Troll *** Xuehka](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/e99b9f49982813.58c3cefe51153.gif)
+
+Image by [Xuehka](http://xuehka.blogspot.co.uk/)
+
+![Xueh Magrini Troll *** Xuehka](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/256d8d49982813.58c3cefed0ce0.gif)
+
+Image by [Xuehka](http://xuehka.blogspot.co.uk/)
+
+![Xueh Magrini Troll *** Xuehka](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/17a27e49982813.58c3cefebec29.gif)
+
+Image by [Xuehka](http://xuehka.blogspot.co.uk/)
+
+![Xueh Magrini Troll *** Xuehka](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/2ec2ab49982813.58c3cefe2de9f.gif)
+
+Image by [Xuehka](http://xuehka.blogspot.co.uk/)
+
+![Xueh Magrini Troll *** Xuehka](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/8bc33249982813.58c3cefe4bc05.gif)
+
+Image by [Xuehka](http://xuehka.blogspot.co.uk/)
+
+![Xueh Magrini Troll *** Xuehka](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/a4f97649982813.58c3cefea5858.gif)
+
+Image by [Xuehka](http://xuehka.blogspot.co.uk/)
+
+![Xueh Magrini Troll *** Xuehka](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/14c4e449982813.58c3cefeac643.gif)
 
 Image by [Xuehka](http://xuehka.blogspot.co.uk/)
 
