@@ -1,5 +1,10 @@
 # women-teach-coding
-Registry of amazing open source women who create coding tutorials 
+Registry of amazing open source women who create coding tutorials. This is a non-paid and open source project. Everyone is invited to use the data and/or contribute to the registry.
+
+# license
+
+MIT
+
 ![Xueh Magrini Troll *** Xuehka](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/9adfa749982813.58c3cefe444f6.gif)
 
 Image by [Xuehka](http://xuehka.blogspot.co.uk/)
