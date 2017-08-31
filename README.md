@@ -74,6 +74,9 @@ Title | Topic |  Level | Format |
 | [3 CSS Grid Features That Make My Heart Flutter](https://una.im/css-grid/#💁) | CSS | intermediate | blog |
 | [Locally Scoped CSS Variables: What, How, and Why](https://una.im/local-css-vars/#💁) | CSS | intermediate | blog |
 | [Implementing "Save For Offline" with Service Workers](https://una.im/save-offline/#💁) | Web API | advanced | blog |
+| [Array.map()](https://www.instagram.com/p/BWqGs0NgyLn/?taken-by=dev_doodles) | Javascript | beginner | doodle |
+| [Promises](https://www.instagram.com/p/BWnWYSjA_zp/?taken-by=dev_doodles) | Javascript | beginner | doodle |
+| [Var-let-const](https://www.instagram.com/p/BWGuzTfgu1z/?taken-by=dev_doodles) | Javascript | beginner | doodle |
 
 ---
 
