@@ -58,8 +58,9 @@ Title | Topic |  Level | Format |
 
 Title | Topic |  Level | Format |
 ----- | ----- | ------ | ------ |
-|[Build your portfolio page with YO and CSJS](https://www.youtube.com/playlist?list=PLbtP2pUMT_hvANJ-b49tp88sOkVLSOkcq)| Javascript | beginner | video |
+|[Build your Portfolio Page with yo and csjs](https://www.youtube.com/playlist?list=PLbtP2pUMT_hvANJ-b49tp88sOkVLSOkcq)| Javascript | beginner | video |
 |[Build a simple Quiz with Firebase](https://www.youtube.com/playlist?list=PLbtP2pUMT_huBADZzKcjJ70x9DBCJzpEN)| Javascript | beginner | video |
+|[Wizard Amigos - JS for Cyber Nomads](https://app.wizardamigos.com)| Javascript | beginner | app |
 
 ---
 
@@ -99,7 +100,7 @@ Title | Topic |  Level | Format |
 | ----- | ----- | ------ | ------ |
 | [Node.js & npm Basics](http://jlord.us/blog/simple-node-module.html) | Javascript | intermediate | blog |
 | [Fork'n'go](http://jlord.us/forkngo/) | Github | beginner | blog |
-| [Git it](https://github.com/jlord/git-it-electron) | Git | intermediate | App |
+| [Git it](https://github.com/jlord/git-it-electron) | Git | intermediate | app |
 | [Essential Electron](http://jlord.us/essential-electron/) | Electron | intermediate | blog |
 
 ---
@@ -139,7 +140,6 @@ Title | Topic |  Level | Format |
 
 Title | Topic |  Level | Format |
 | ----- | ----- | ------ | ------ |
-| [Coding Whiteboard Challenge - HTML & CSS](https://www.youtube.com/watch?v=mEU_c7mxXFs) | HTML & CSS | beginner | video |
 | [Coding Whiteboard Challenge - Character Frequency](https://www.youtube.com/watch?v=g0PFa57iAlU) | Javascript | beginner | video |
 | [Coding Whiteboard Challenge - JavaScript - Palindrome](https://www.youtube.com/watch?v=jaYtmfLLJrI) | Javascript | beginner | video |
 | [How well do you really know CSS?](http://www.jenniferbland.com/how-well-do-you-really-know-css/) | CSS | beginner | blog |
@@ -148,6 +148,21 @@ Title | Topic |  Level | Format |
 | [Data Structures – Linked List, Set and Hash Table](http://www.jenniferbland.com/data-structures-linked-list-set-and-hash-table/) | Computer Science | beginner | blog |
 | [The Difference Between .call and .apply in JavaScript](http://www.jenniferbland.com/the-difference-between-call-and-apply-in-javascript/) | Javascript | beginner | blog |
 | [Instantiation Patterns in JavaScript](https://medium.com/dailyjs/instantiation-patterns-in-javascript-8fdcf69e8f9b) | Javascript | intermediate | blog |
+
+---
+
+## Rachel Andrew
+
+[Twitter](https://twitter.com/rachelandrew/) *
+[Github](https://github.com/rachelandrew) *
+
+Title | Topic |  Level | Format |
+| ----- | ----- | ------ | ------ |
+| [CSS Basics](https://thecssworkshop.com/css-basics) | CSS | beginner | video tutorial |
+| [Everything you need to learn CSS Grid Layout](https://gridbyexample.com/resources/) | Grid | beginner | blog |
+| [Grid by example](https://gridbyexample.com/examples/) | Grid | beginner | project |
+| [Grab & Go Patterns](https://gridbyexample.com/patterns/) | Grid | beginner | project |
+| [Learn Grid Layout Video Series](https://gridbyexample.com/video/) | Grid | beginner | video tutorial |
 
 ---
 
