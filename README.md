@@ -58,8 +58,8 @@ Title | Topic |  Level | Format |
 
 Title | Topic |  Level | Format |
 ----- | ----- | ------ | ------ |
-|[Build your portfolio page with JavaScript and NMP](https://www.youtube.com/playlist?list=PLbtP2pUMT_hvANJ-b49tp88sOkVLSOkcq)| Javascript | beginner | video |
-|[Build a simple Quiz with JavaScript using Firebase](https://www.youtube.com/playlist?list=PLbtP2pUMT_huBADZzKcjJ70x9DBCJzpEN)| Javascript | beginner | video |
+|[Build your portfolio page with YO and CSJS](https://www.youtube.com/playlist?list=PLbtP2pUMT_hvANJ-b49tp88sOkVLSOkcq)| Javascript | beginner | video |
+|[Build a simple Quiz with Firebase](https://www.youtube.com/playlist?list=PLbtP2pUMT_huBADZzKcjJ70x9DBCJzpEN)| Javascript | beginner | video |
 
 ---
 
@@ -129,6 +129,25 @@ Title | Topic |  Level | Format |
 | [How do I get started with V8 development?](https://medium.com/dailyjs/how-do-i-get-started-with-v8-development-17e976ebe4af) | V8 | intermediate | blog |
 | [Understanding V8’s Bytecode](https://medium.com/dailyjs/understanding-v8s-bytecode-317d46c94775) | V8 | advanced | blog |
 | [Pachelbel's canon in D with web audio](https://github.com/fhinkel/webAudioDemo) | Web audio | intermediate | project |
+
+---
+
+## Jennifer Bland
+
+[Twitter](https://twitter.com/ratracegrad) *
+[Github](https://github.com/ratracegrad) *
+
+Title | Topic |  Level | Format |
+| ----- | ----- | ------ | ------ |
+| [Coding Whiteboard Challenge - HTML & CSS](https://www.youtube.com/watch?v=mEU_c7mxXFs) | HTML & CSS | beginner | video |
+| [Coding Whiteboard Challenge - Character Frequency](https://www.youtube.com/watch?v=g0PFa57iAlU) | Javascript | beginner | video |
+| [Coding Whiteboard Challenge - JavaScript - Palindrome](https://www.youtube.com/watch?v=jaYtmfLLJrI) | Javascript | beginner | video |
+| [How well do you really know CSS?](http://www.jenniferbland.com/how-well-do-you-really-know-css/) | CSS | beginner | blog |
+| [Why Doesn’t Your Github Repo Have a ReadMe File?](http://www.jenniferbland.com/first-impressions-count-why-doesnt-your-github-repo-have-a-readme-file/) | Github | beginner | blog |
+| [The Difference Between a Tree and a Graph Data Structure](http://www.jenniferbland.com/the-difference-between-a-tree-and-a-graph-data-structure/) | Computer Science | beginner | blog |
+| [Data Structures – Linked List, Set and Hash Table](http://www.jenniferbland.com/data-structures-linked-list-set-and-hash-table/) | Computer Science | beginner | blog |
+| [The Difference Between .call and .apply in JavaScript](http://www.jenniferbland.com/the-difference-between-call-and-apply-in-javascript/) | Javascript | beginner | blog |
+| [Instantiation Patterns in JavaScript](https://medium.com/dailyjs/instantiation-patterns-in-javascript-8fdcf69e8f9b) | Javascript | intermediate | blog |
 
 ---
 
