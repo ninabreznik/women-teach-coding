@@ -1,5 +1,5 @@
 # women-teach-coding
-Registry of amazing open source women who create coding tutorials. This is a non-paid and open source project. Everyone is invited to use the data and/or contribute to the registry.
+is a collection of amazing open source women who create coding tutorials. This is a non-paid and open source project. Everyone is invited to use the data and/or contribute to the registry.
 
 # license
 
