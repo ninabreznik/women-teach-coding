@@ -64,7 +64,7 @@ Title | Topic |  Level | Format |
 
 ---
 
-## Una Kravetz
+## Una Kravets
 
 [Twitter](https://twitter.com/una) *
 [Github](https://github.com/una) *
