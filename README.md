@@ -119,14 +119,16 @@ Title | Topic |  Level | Format |
 
 ---
 
-## YOU
+## Franziska Hinkelmann
 
-[Twitter]() *
-[Github]() *
+[Twitter](https://twitter.com/fhinkel) *
+[Github](https://github.com/fhinkel) *
 
 Title | Topic |  Level | Format |
 | ----- | ----- | ------ | ------ |
-| []() | ----- | ------ | ------ |
+| [How do I get started with V8 development?](https://medium.com/dailyjs/how-do-i-get-started-with-v8-development-17e976ebe4af) | V8 | intermediate | blog |
+| [Understanding V8’s Bytecode](https://medium.com/dailyjs/understanding-v8s-bytecode-317d46c94775) | V8 | advanced | blog |
+| [Pachelbel's canon in D with web audio](https://github.com/fhinkel/webAudioDemo) | Web audio | intermediate | project |
 
 ---
 
