@@ -2,7 +2,7 @@
 is a collection of amazing open source women who create coding tutorials. This is a non-paid and open source project. Everyone is invited to use the data and/or contribute to the registry.
 
 # twitter list
-[this is the Twitter list](https://twitter.com/serapath/lists/github-women-teach-coding/members) all the ladies from this registry
+[this is the Twitter list](https://twitter.com/serapath/lists/github-women-teach-coding/members) all the women from this registry
 
 # license
 
@@ -196,6 +196,17 @@ Title | Topic |  Level | Format |
 | [More About SSH](http://drawings.shubheksha.com/more-about-ssh/) | SSH | beginner | drawing |
 | [Why SSH?](http://drawings.shubheksha.com/why-ssh/) | SSH | beginner | drawing |
 | [Semantic Versioning (Semver)](http://drawings.shubheksha.com/semver/) | Versioning | beginner | drawing |
+
+---
+
+## Katrina Owen
+
+[Twitter](https://twitter.com/kytrinyx) *
+[Github](https://github.com/kytrinyx) *
+
+Title | Topic |  Level | Format |
+| ----- | ----- | ------ | ------ |
+| [Exercism Javascript Excercises](http://exercism.io/languages/javascript/exercises) | Javascript | intermediate | app |
 
 ---
 
