@@ -88,8 +88,9 @@ Title | Topic |  Level | Format |
 Title | Topic |  Level | Format |
 ----- | ----- | ------ | ------ |
 | [Git workshop](https://github.com/cyberwizardinstitute/workshops/blob/master/git.markdown) | Git | beginner | markdown |
-| [Collection of Art projects with Regl](https://github.com/mk30/regl-demo-reel) | Web GL | advanced | project |
+| [Loading and displaying a 3D mesh with regl](https://kitties.neocities.org/meshtutorial.html) | Web GL | advanced | project |
 | [Collection of Regl experiments](https://github.com/mk30/regl-example-experiments) | Web GL | advanced | project |
+| [Collection of Art projects with Regl](https://github.com/mk30/regl-demo-reel) | Web GL | advanced | project |
 
 
 ---
