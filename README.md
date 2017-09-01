@@ -169,6 +169,32 @@ Title | Topic |  Level | Format |
 
 ---
 
+## Shubheksha Jalan
+
+[Twitter](https://twitter.com/ScribblingOn) *
+[Github](https://github.com/shubheksha) *
+
+Title | Topic |  Level | Format |
+| ----- | ----- | ------ | ------ |
+| [Git vs. Github](http://drawings.shubheksha.com/git-vs-github/) | Git | beginner | drawing |
+| [Ecma Script and ES6](http://drawings.shubheksha.com/ecma-script/) | ES6 | beginner | drawing |
+| [Man In the Middle Attack](http://drawings.shubheksha.com/man-in-the-middle-attack/) | Security | beginner | drawing |
+| [HTTP vs HTTPs](http://drawings.shubheksha.com/http-vs-https/) | Security | beginner | drawing |
+| [Version Control Systems (VCS)](http://drawings.shubheksha.com/version-control-systems/) | Version control system | beginner | drawing |
+| [Central VCS](http://drawings.shubheksha.com/central-vcs/) | Version control system | beginner | drawing |
+| [Distributed VCS](http://drawings.shubheksha.com/distributed-vcs/) | Version control system | beginner | drawing |
+| [Bundlers In The JS Ecosystem](http://drawings.shubheksha.com/bundlers-in-the-js-ecosystem/) | Bundlers | beginner | drawing |
+| [More About Bundlers](http://drawings.shubheksha.com/more-about-bundlers/) | Bundlers | beginner | drawing |
+| [Relational vs Non-relational Databases](http://drawings.shubheksha.com/relational-vs-non-relational-databases/) | Databases | beginner | drawing |
+| [Relational Databases](http://drawings.shubheksha.com/relational-databases/) | Databases | beginner | drawing |
+| [Non-relational Databases](http://drawings.shubheksha.com/non-relational-databases/) | Databases | beginner | drawing |
+| [Secure Shell (SSH)](http://drawings.shubheksha.com/ssh/) | SSH | beginner | drawing |
+| [More About SSH](http://drawings.shubheksha.com/more-about-ssh/) | SSH | beginner | drawing |
+| [Why SSH?](http://drawings.shubheksha.com/why-ssh/) | SSH | beginner | drawing |
+| [Semantic Versioning (Semver)](http://drawings.shubheksha.com/semver/) | Versioning | beginner | drawing |
+
+---
+
 ## YOU
 
 [Twitter]() *
