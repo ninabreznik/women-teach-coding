@@ -1,6 +1,9 @@
 # women-teach-coding
 is a collection of amazing open source women who create coding tutorials. This is a non-paid and open source project. Everyone is invited to use the data and/or contribute to the registry.
 
+# twitter list
+[this is the Twitter list](https://twitter.com/serapath/lists/github-women-teach-coding/members) all the ladies from this registry
+
 # license
 
 MIT
