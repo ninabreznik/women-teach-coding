@@ -210,6 +210,17 @@ Title | Topic |  Level | Format |
 
 ---
 
+## Emily Wu
+
+[Twitter](https://twitter.com/emilywudigital) *
+[Github](https://github.com/embrilliant) *
+
+Title | Topic |  Level | Format |
+| ----- | ----- | ------ | ------ |
+| [Video Paint](https://github.com/embrilliant/VideoPaint) | Canvas | intermediate | project |
+
+---
+
 ## YOU
 
 [Twitter]() *
