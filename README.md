@@ -222,6 +222,19 @@ Title | Topic |  Level | Format |
 
 ---
 
+## Vaidehi Joshi
+
+[Twitter](https://twitter.com/vaidehijoshi) *
+[Github](https://github.com/vaidehijoshi) *
+
+Title | Topic |  Level | Format |
+| ----- | ----- | ------ | ------ |
+| [Finding Fibonacci In Golden Trees ](https://medium.com/basecs/finding-fibonacci-in-golden-trees-1c8967b1f47a) | Computer science | intermediate | blog |
+| [Getting To The Root Of Sorting With Radix Sort](https://medium.com/basecs/getting-to-the-root-of-sorting-with-radix-sort-f8e9240d4224) | Computer science | intermediate | blog |
+| [Königsberg: Seven Small Bridges, One Giant Graph Problem](https://medium.com/basecs/k%C3%B6nigsberg-seven-small-bridges-one-giant-graph-problem-2275d1670a12) | Computer science | intermediate | blog |
+
+---
+
 ## YOU
 
 [Twitter]() *
