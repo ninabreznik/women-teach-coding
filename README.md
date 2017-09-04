@@ -119,6 +119,7 @@ Title | Topic |  Level | Format |
 
 Title | Topic |  Level | Format |
 | ----- | ----- | ------ | ------ |
+| [Network interfaces](https://jvns.ca/blog/2017/09/03/network-interfaces/) | Networking | intermediate | blog |
 | [Computer networking](https://jvns.ca/networking-zine.pdf) | Networking | intermediate | zine |
 | [How to trick a neural network!](https://jvns.ca/networking-zine.pdf) | Neural networks | intermediate | talk |
 | [What happens when you start a process on Linux?](https://jvns.ca/debugging-zine.pdf) | Linux | advanced | zine |
