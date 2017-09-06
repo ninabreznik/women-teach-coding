@@ -235,6 +235,28 @@ Title | Topic |  Level | Format |
 
 ---
 
+## Karissa McKelvey
+
+[Twitter](https://twitter.com/okdistribute) *
+[Github](https://github.com/karissa) *
+
+Title | Topic |  Level | Format |
+| ----- | ----- | ------ | ------ |
+| [Nutella scrape - learn to scrape the web with Node.js](https://github.com/karissa/nutella-scrape) | Scraping | intermediate | module |
+
+---
+
+## Lindsey Kuper
+
+[Twitter](https://twitter.com/lindsey) *
+[Github](https://github.com/lkuper) *
+
+Title | Topic |  Level | Format |
+| ----- | ----- | ------ | ------ |
+| [Compiler vs. Transpiler](http://composition.al/blog/2017/07/30/what-do-people-mean-when-they-say-transpiler/) | Computer science | beginner | blog |
+
+---
+
 ## YOU
 
 [Twitter]() *
