@@ -257,6 +257,25 @@ Title | Topic |  Level | Format |
 
 ---
 
+## Rachel Smith
+
+[Twitter](https://twitter.com/rachsmithtweets) *
+[Github](https://github.com/rachsmithcodes) *
+
+Title | Topic |  Level | Format |
+| ----- | ----- | ------ | ------ |
+| [A tip for my designer/CSS-wielding friends wanting to learn JavaScript](https://codepen.io/rachsmith/post/a-tip-for-my-designer-css-weilding-friends-wanting-to-learn-javascript) | Javascript | beginner | demo |
+| [CSS Transitions and JavaScript Tweens](https://codepen.io/rachsmith/post/css-transitions-and-javascript-tweens) | CSS | intermediate | demo |
+| [Controlling the Canvas with JavaScript Objects](https://codepen.io/rachsmith/post/controlling-the-canvas-with-javascript-objects) | Canvas | intermediate | demo |
+| [How to move elements on scroll in a way that doesn’t suck too bad](https://codepen.io/rachsmith/post/how-to-move-elements-on-scroll-in-a-way-that-doesn-t-suck-too-bad) | Scrolling | intermediate | demo |
+| [Hack Physics and JavaScript (part 1)](https://codepen.io/rachsmith/post/hack-physics-and-javascript-1) | Javascript | intermediate | demo |
+| [Beginning with 3D WebGL (pt. 1) - The Scene](https://codepen.io/rachsmith/post/beginning-with-3d-webgl-pt-1-the-scene) | WebGL | intermediate | demo |
+| [Beginning with 3D WebGL (pt. 2) - Geometry](https://codepen.io/rachsmith/post/beginning-with-3d-webgl-pt-2-geometry) | WebGL | intermediate | demo |
+| [Beginning with 3D WebGL (pt. 3) - Materials](https://codepen.io/rachsmith/post/beginning-with-3d-webgl-pt-3-materials) | WebGL | intermediate | demo |
+| [Beginning with 3D WebGL (pt. 4) - Animation](https://codepen.io/rachsmith/post/beginning-with-3d-webgl-pt-4-animation) | WebGL | intermediate | demo |
+
+---
+
 ## YOU
 
 [Twitter]() *
