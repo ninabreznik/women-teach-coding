@@ -276,6 +276,21 @@ Title | Topic |  Level | Format |
 
 ---
 
+## Mariko Kosaka
+
+[Twitter](https://twitter.com/kosamari) *
+[Github](https://github.com/kosamari) *
+
+Title | Topic |  Level | Format |
+| ----- | ----- | ------ | ------ |
+| [Service Worker, what are you ?](https://kosamari.com/notes/Service-Worker-what-are-you) | Service workers | beginner | blog |
+| [Turn Your Gist To HTML](https://kosamari.com/notes/Turn-Your-Gist-To-Html) | Github | beginner | blog |
+| [But why can't I code like that?](https://kosamari.com/notes/but-why-cant-i-code-like-that) | Javascript | beginner | blog |
+| [Drawing on <canvas>](https://kosamari.com/presentation/render-2016/#0) | Canvas | beginner | presentation |
+
+
+---
+
 ## YOU
 
 [Twitter]() *
