@@ -291,6 +291,18 @@ Title | Topic |  Level | Format |
 
 ---
 
+## Claudia Hernández
+
+[Twitter](http://twitter.com/koste4) *
+[Github](http://github.com/claudiahdz) *
+
+Title | Topic |  Level | Format |
+| ----- | ----- | ------ | ------ |
+| [What I Talk About When I Talk About Sorting: Untangling Array#sort](https://alistapart.com/article/what-i-talk-about-when-i-talk-about-sorting) | Javascript | beginner | blog |
+
+
+---
+
 ## YOU
 
 [Twitter]() *
