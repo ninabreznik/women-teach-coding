@@ -63,7 +63,7 @@ Title | Topic |  Level | Format |
 ----- | ----- | ------ | ------ |
 |[Build your Portfolio Page with yo and csjs](https://www.youtube.com/playlist?list=PLbtP2pUMT_hvANJ-b49tp88sOkVLSOkcq)| Javascript | beginner | video |
 |[Build a simple Quiz with Firebase](https://www.youtube.com/playlist?list=PLbtP2pUMT_huBADZzKcjJ70x9DBCJzpEN)| Javascript | beginner | video |
-|[Wizard Amigos - JS for Cyber Nomads](https://app.wizardamigos.com)| Javascript | beginner | app |
+|[Wizard Amigos - JS for Cyber Nomads](https://wizardamigos.com/workshop_app)| Javascript | beginner | app |
 
 ---
 
