@@ -336,6 +336,6 @@ supporting women-teach-coding project with contributing their art
 
 ## [Pikapoka Polonica](https://www.behance.net/PoloncaPeterca)
 
-![Pikapoka Polonica](https://imgur.com/a/DM11L)
-![Pikapoka Polonica](https://imgur.com/a/rmA11)
-![Pikapoka Polonica](https://imgur.com/a/iWDko)
+![Pikapoka Polonica](https://i.imgur.com/hSmQibb.jpg)
+![Pikapoka Polonica](https://i.imgur.com/DsiMf4i.jpg)
+![Pikapoka Polonica](https://i.imgur.com/7aEIBje.jpg)
