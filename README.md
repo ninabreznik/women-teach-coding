@@ -312,32 +312,30 @@ Title | Topic |  Level | Format |
 | ----- | ----- | ------ | ------ |
 | []() | ----- | ------ | ------ |
 
-![Xueh Magrini Troll *** Xuehka](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/e99b9f49982813.58c3cefe51153.gif)
+---
+# feminist artists
+supporting women-teach-coding project with contributing their art
 
-Image by [Xuehka](http://xuehka.blogspot.co.uk/)
+## [Xuehka](http://xuehka.blogspot.co.uk/)
+
+![Xueh Magrini Troll *** Xuehka](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/e99b9f49982813.58c3cefe51153.gif)
 
 ![Xueh Magrini Troll *** Xuehka](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/256d8d49982813.58c3cefed0ce0.gif)
 
-Image by [Xuehka](http://xuehka.blogspot.co.uk/)
-
 ![Xueh Magrini Troll *** Xuehka](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/17a27e49982813.58c3cefebec29.gif)
-
-Image by [Xuehka](http://xuehka.blogspot.co.uk/)
 
 ![Xueh Magrini Troll *** Xuehka](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/2ec2ab49982813.58c3cefe2de9f.gif)
 
-Image by [Xuehka](http://xuehka.blogspot.co.uk/)
-
 ![Xueh Magrini Troll *** Xuehka](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/8bc33249982813.58c3cefe4bc05.gif)
-
-Image by [Xuehka](http://xuehka.blogspot.co.uk/)
 
 ![Xueh Magrini Troll *** Xuehka](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/a4f97649982813.58c3cefea5858.gif)
 
-Image by [Xuehka](http://xuehka.blogspot.co.uk/)
-
 ![Xueh Magrini Troll *** Xuehka](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/14c4e449982813.58c3cefeac643.gif)
 
-Image by [Xuehka](http://xuehka.blogspot.co.uk/)
-
 ---
+
+## [Pikapoka Polonica](https://www.behance.net/PoloncaPeterca)
+
+![Pikapoka Polonica](https://imgur.com/a/DM11L)
+![Pikapoka Polonica](https://imgur.com/a/rmA11)
+![Pikapoka Polonica](https://imgur.com/a/iWDko)
