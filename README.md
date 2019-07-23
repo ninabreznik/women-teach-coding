@@ -22,6 +22,7 @@ Image by [Xuehka](http://xuehka.blogspot.co.uk/)
 
 Title | Topic |  Level | Format |
 ----- | ----- | ------ | ------ |
+|[Event Loop Zine](https://github.com/lrlna/sketchin/blob/master/zines/js-event-loop.md)| Javascript | advanced | zines |
 |[Node streams](https://github.com/lrlna/sketchin/blob/master/guides/node-streams.md)| Javascript | advanced| sketchnote |
 |[Typed arrays](https://github.com/lrlna/sketchin/blob/master/guides/typed-arrays.md)| Javascript | advanced | sketchnote |
 |[Deflate](https://github.com/lrlna/sketchin/blob/master/guides/deflate.md)| Computer science | advanced | sketchnote |
