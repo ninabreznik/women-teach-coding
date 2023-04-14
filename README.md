@@ -1,4 +1,4 @@
-# women-teach-coding [![Help Contribute to Open Source](https://www.codetriage.com/ninabreznik/women-teach-coding/badges/users.svg)](https://www.codetriage.com/ninabreznik/women-teach-coding)
+# women-teach-coding
 
 is a collection of amazing open source women who create coding tutorials. This is a non-paid and open source project. Everyone is invited to use the data and/or contribute to the registry.
 
