@@ -100,6 +100,17 @@ Title | Topic |  Level | Format |
 
 ---
 
+# Kristina Schneider
+
+[Twitter](http://twitter.com/kriesse) *
+[Github](https://github.com/kriesse/) *
+
+Title | Topic |  Level | Format |
+| ----- | ----- | ------ | ------ |
+| [CSS classes](https://github.com/CSSclasses/CSSclasses) | CSS | Basic | workshop |
+
+---
+
 ## Jessica Lord
 
 [Twitter](https://twitter.com/jllord) *
