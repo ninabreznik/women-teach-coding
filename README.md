@@ -63,10 +63,11 @@ Title | Topic |  Level | Format |
 
 Title | Topic |  Level | Format |
 ----- | ----- | ------ | ------ |
+|[Building Vanilla JS Web Components](https://www.youtube.com/playlist?list=PLubqJ-IuY27BQ7sDNZraRYcFWjmU3JABz)| Web | Intermediate | video |
+|[Composing Vanilla JS Web Components](https://www.youtube.com/playlist?list=PLubqJ-IuY27BgNQnyNfwwjITBhQS6W6tC)| Web | Advanced | video |
 |[Build your Portfolio Page with yo and csjs](https://www.youtube.com/playlist?list=PLbtP2pUMT_hvANJ-b49tp88sOkVLSOkcq)| Javascript | beginner | video |
 |[Build a simple Quiz with Firebase](https://www.youtube.com/playlist?list=PLbtP2pUMT_huBADZzKcjJ70x9DBCJzpEN)| Javascript | beginner | video |
 |[Wizard Amigos - JS for Cyber Nomads](https://wizardamigos.com/workshop_app)| Javascript | beginner | app |
-
 ---
 
 ## Una Kravets
