@@ -314,6 +314,22 @@ Title | Topic |  Level | Format |
 | ----- | ----- | ------ | ------ |
 | [What I Talk About When I Talk About Sorting: Untangling Array#sort](https://alistapart.com/article/what-i-talk-about-when-i-talk-about-sorting) | Javascript | beginner | blog |
 
+---
+
+## bleeptrack
+
+[Twitter](https://twitter.com/Bleeptrack) *
+[Github](https://github.com/bleeptrack) *
+
+Title | Topic |  Level | Format |
+| ----- | ----- | ------ | ------ |
+| [Avatargenerator mit paper.js (German)](https://jugendhackt.org/oer/projekte/generative-kunst/) | generative art | non-coding beginner | blog+video |
+| [Exploring generative spaces: a quickstart to generative art](https://www.youtube.com/watch?v=meqHPIOzk-U) | generative art | coding beginner | video |
+| [Coding generative art by bleeptrack](https://www.youtube.com/watch?v=dJZrtoNG7GA) | generative art | coding beginner | video |
+| [Generative Art – Erschaffe dein digitales Kunstwerk (German)](https://coding-for-tomorrow.de/generative-art-erschaffe-dein-digitales-kunstwerk/) | generative art | non-coding beginner | blog+video |
+
+---
+
 
 ---
 
